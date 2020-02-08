@@ -1,0 +1,8 @@
+1	Simple_C	McGregor,_J	Addison_Wesley	1997	Book
+2	The_Pillars_of_the_Earth	Ken_Follett	Shanghai_Translation_Publishing_House	2017	Book
+3	Sams_Teach_Yourself_C_programming_in_One_Hour_a_Day	Jones,_B	Sams_Publishing	2013	Book
+4	Computer_vision:_models,_learning,_and_inference	Prince,_S	Cambridge_University_Press	2012	Book
+5	Data_science_from_scratch:_first_principles_with_Python	Grus,_J	O'Reilly_Media	2015	Book
+6	An_introduction_to_statistical_learning:_with_applications_in_R	James,_G	Springer	2013	Book
+7	Bayesian_resoning_and_machine_learning	Barber,_D	Cambridge_University_Press	2012	Book
+8	Gaussian_processes_for_machine_learning	Rasmussen,_C	MIT_Press	2006	Book
